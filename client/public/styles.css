@@ -1,0 +1,71 @@
+
+/* TopNavBar */
+
+.nav-bar-content{
+    background-color: #ff4c68;
+}
+
+.title{
+    padding: 0.5rem 3rem 0.5rem 3rem;
+    font-size: 1.1rem;
+}
+
+.header{
+    font-size: 2.4rem;
+}
+
+/* TopCarousel */
+
+.carousel{
+    background-color: #ff4c68;
+    padding: 0.5rem 3rem 0.5rem 3rem;
+}
+
+.carousel-div{
+    align-items: center;
+}
+
+.carousel-item-text{
+    align-items: center;  
+    color: #fff;
+}
+
+.carousel-item-design{
+    align-items: right;
+}
+
+.carousel-image{
+    height: 15rem;
+}
+
+/* Dress Item*/
+
+.card-list{
+    margin: 3rem 3rem 3rem 3rem;
+}
+
+.card-button{
+    background: #ff4c68;
+}
+
+/* Footer */
+
+.copyright-icon{
+    padding: 0 1rem 0;
+    font-size: 2rem;
+}
+
+.footer{
+    text-align: center;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+    border-color: #fff;
+    background-color: #ff4c68;
+    color: #fff;
+  }
+
+  .link_color{
+    text-decoration: none; 
+    background-color: none;
+    color:#fff;
+  }
