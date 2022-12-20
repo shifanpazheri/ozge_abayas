@@ -46,7 +46,7 @@ function BootstrapLoginForm() {
         </div>
         <div id="phone-input">
           <InputGroup className="mb-3">
-            <InputGroup.Text>+91</InputGroup.Text>
+            <InputGroup.Text style={{ color: "#9FA6B2" }}>+91</InputGroup.Text>
             <Form.Control placeholder="Phone Number" />
           </InputGroup>
         </div>
