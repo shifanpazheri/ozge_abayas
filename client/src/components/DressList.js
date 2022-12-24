@@ -1,11 +1,11 @@
 import React from "react";
 import DressItem from "./DressItem";
-import dressData from "./dressData";
+import DressData from "./DressData";
 
 function DressList() {
   return (
     <div>
-      {dressData.map((dressItemList, index) => {
+      {DressData.map((dressItemList, index) => {
         return (
           <DressItem
             key={index}

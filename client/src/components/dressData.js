@@ -1,4 +1,4 @@
-const dressData = [
+const DressData = [
   {
     index: "1",
     name: "Tincidunt ut laoreet dolore",
@@ -29,4 +29,4 @@ const dressData = [
   },
 ];
 
-export default dressData;
+export default DressData;
