@@ -35,9 +35,7 @@ function DressItem(props) {
             </span>
           </p>
         </Card.Text>
-        <Button variant="primary" className="card-button">
-          Buy Now
-        </Button>
+        <Button variant="outline-secondary">Buy Now</Button>
       </Card.Body>
     </Card>
   );
